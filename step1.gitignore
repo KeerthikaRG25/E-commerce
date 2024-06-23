@@ -1,0 +1,4 @@
+touch .gitignore
+echo "node_modules/" >> .gitignore
+echo "frontend/node_modules/" >> .gitignore
+echo "frontend/build/" >> .gitignore
