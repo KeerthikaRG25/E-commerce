@@ -113,7 +113,7 @@ __ Project Setup__
 Objective: Design the database schema and set up basic API endpoints.
 
 
-1.** Design Database Schema**
+1.**Design Database Schema**
 Products Collection:
 
 Fields: name, description, price, category, imageURL, stock, createdAt, updatedAt
@@ -123,7 +123,7 @@ Fields: username, email, password, createdAt, updatedAt
 Orders Collection:
 
 Fields: userId, products, totalAmount, status, createdAt, updatedAt
-2. Set Up Mongoose Models
+2. **Set Up Mongoose Models**
 Install Mongoose:
 
 bash
