@@ -109,6 +109,7 @@ __ Project Setup__
 
 
 **Day - 2**
+
 **Day 2: Database Design and Basic API Setup**
 Objective: Design the database schema and set up basic API endpoints.
 
@@ -123,7 +124,8 @@ Fields: username, email, password, createdAt, updatedAt
 Orders Collection:
 
 Fields: userId, products, totalAmount, status, createdAt, updatedAt
-2. **Set Up Mongoose Models**
+
+2.**Set Up Mongoose Models**
 Install Mongoose:
 
 bash
@@ -138,6 +140,32 @@ Commit and Push the Changes to GitHub
 **Outcome of Day 2 task** : By the end of Day 2, database schemas, Mongoose models, and basic CRUD API endpoints for products were set up, integrated with the server, and all changes committed and pushed to GitHub.
 
 
+**DAY - 3**
+
+**Day 3: User Authentication System**
+
+__Objective:__
+Implement a user authentication system using JWT (JSON Web Tokens).
+
+Tasks:
+1.**Set Up User Registration and Login Endpoints**
+
+       1.Create endpoints in users.js for user registration and login.
+       2.Hash passwords using bcrypt for security.
+       3.Generate JWT tokens upon successful login.
+
+2.**Set Up JWT Middleware**
+
+      Create middleware/auth.js to verify JWT tokens.
+      
+3.**Protect Routes with JWT Middleware**
+
+      Update index.js to protect routes using the JWT middleware
+
+4.**Commit and Push the Changes to GitHub**
+
+**Outcome of the DAY 3**:
+        By the end of Day 3, the user authentication system using JWT will be implemented, routes will be protected, and all changes will be committed and pushed to GitHub. This ensures that only authenticated users can access certain routes, enhancing the security of the application.
 
 
 
