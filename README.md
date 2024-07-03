@@ -179,7 +179,7 @@ __Product Management System__
 4. **Commit and Push Changes to GitHub**
 
 
-** OUTCOME OF DAY 4 **:
+**OUTCOME OF DAY 4**:
      By the end of this process, you will have a functional product management system with routes for creating, listing, and deleting products
 
 
