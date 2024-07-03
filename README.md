@@ -1,5 +1,7 @@
 E-Commerce Web Application
+
 **DAY - 1**
+
 __ Project Setup__
 
 **Objective**: Set up the project environment and initial repository.
@@ -167,6 +169,18 @@ Tasks:
 **Outcome of the DAY 3**:
         By the end of Day 3, the user authentication system using JWT will be implemented, routes will be protected, and all changes will be committed and pushed to GitHub. This ensures that only authenticated users can access certain routes, enhancing the security of the application.
 
+**DAY-4**
+
+__Product Management System__
+
+1. **Set Up Product Model**
+2. **Create Product Routes**
+3. **Integrate Product Routes**
+4. **Commit and Push Changes to GitHub**
+
+
+** OUTCOME OF DAY 4 **:
+     By the end of this process, you will have a functional product management system with routes for creating, listing, and deleting products
 
 
 
